@@ -1,11 +1,5 @@
 # 📝 Todo App
 
-A small project made using Next JS, Tailwind, Testing Library, Framer Motion, Redux and Redux Persist.
-
-The layout was made by **Millena Kupsinskü Martins** from Rocketseat
-
-
-
 ![todo gif](https://user-images.githubusercontent.com/67132916/175570378-1aaed841-145e-4ad7-9bdd-11062d61ea9a.gif)
 
 <br/>
@@ -68,24 +62,3 @@ npm run test
 - [Redux Persist](https://github.com/rt2zz/redux-persist)
 
 <br/>
-
-## Collaborators
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/67132916?v=4" width="140px;" alt="Picture of Matheus Filype in GitHub"/><br>
-        <sub>
-          <b>Matheus Filype</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-## 📝 License
-
-This project is under license. See the file [LICENSE](LICENSE.md) for more details.
-
-Thanks!
